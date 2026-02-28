@@ -10,10 +10,11 @@ Indie software studio by [Xavier Marti Bofill](https://github.com/loBofill). Bui
 |---------|-------------|--------|
 | [Dossier](https://github.com/tantu-studio/dossier) | AI-powered topic monitoring — local-first alternative to Google Alerts | Active |
 | [Swerve](https://github.com/tantu-studio/swerve) | Creative naming through conceptual distortion and democratic voting | Active |
+| [Gladys](https://github.com/tantu-studio/gladys) | Slack bot for error alert triage via Prometheus and Elasticsearch | Active |
 
 ## Philosophy
 
-- Maximum **2 active projects** at any time
+- Visibility over restriction
 - Local-first, open source by default
 - Ship small, iterate fast
 - If it needs a manual to maintain, it won't get maintained
